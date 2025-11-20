@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/test/Dokumente/oos1-labor/Aufgabe13/build/linux",
+	"dir-cur-src" : "/home/test/Dokumente/oos1-labor/Aufgabe13",
+	"dir-top-bld" : "/home/test/Dokumente/oos1-labor/Aufgabe13/build/linux",
+	"dir-top-src" : "/home/test/Dokumente/oos1-labor/Aufgabe13",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/test/Dokumente/oos1-labor/Aufgabe13/build/linux/CMakeFiles/melait00-Manager.dir"
+}

@@ -1,0 +1,17 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/aufgabe14.dir/main.cpp.o",
+      "requires": [
+        {
+          "logical-name": "Manager"
+        },
+        {
+          "logical-name": "Worker"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/aufgabe14.dir/Manager.cpp.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "Manager",
+          "source-path": "/home/test/Dokumente/oos1-labor/Aufgabe14/Manager.cpp"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "Employee"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

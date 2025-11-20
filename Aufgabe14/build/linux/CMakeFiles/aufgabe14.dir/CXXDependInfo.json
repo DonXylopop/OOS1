@@ -1,0 +1,50 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/aufgabe14.dir/Employee.cpp.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/test/Dokumente/oos1-labor/Aufgabe14/Employee.cpp",
+			"type" : "CXX_MODULES",
+			"visibility" : "PRIVATE"
+		},
+		"CMakeFiles/aufgabe14.dir/Manager.cpp.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/test/Dokumente/oos1-labor/Aufgabe14/Manager.cpp",
+			"type" : "CXX_MODULES",
+			"visibility" : "PRIVATE"
+		},
+		"CMakeFiles/aufgabe14.dir/Worker.cpp.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/test/Dokumente/oos1-labor/Aufgabe14/Worker.cpp",
+			"type" : "CXX_MODULES",
+			"visibility" : "PRIVATE"
+		}
+	},
+	"dir-cur-bld" : "/home/test/Dokumente/oos1-labor/Aufgabe14/build/linux",
+	"dir-cur-src" : "/home/test/Dokumente/oos1-labor/Aufgabe14",
+	"dir-top-bld" : "/home/test/Dokumente/oos1-labor/Aufgabe14/build/linux",
+	"dir-top-src" : "/home/test/Dokumente/oos1-labor/Aufgabe14",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/test/Dokumente/oos1-labor/Aufgabe14/build/linux/CMakeFiles/aufgabe14.dir"
+}

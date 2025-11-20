@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/melait00-Manager.dir/Employee.cpp.o: dyndep
+
+build CMakeFiles/melait00-Manager.dir/main.cpp.o: dyndep
+
+build CMakeFiles/melait00-Manager.dir/Manager.cpp.o: dyndep
+
+build CMakeFiles/melait00-Manager.dir/Worker.cpp.o: dyndep
+

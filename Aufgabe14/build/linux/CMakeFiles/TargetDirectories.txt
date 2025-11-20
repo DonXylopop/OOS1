@@ -1,0 +1,3 @@
+/home/test/Dokumente/oos1-labor/Aufgabe14/build/linux/CMakeFiles/aufgabe14.dir
+/home/test/Dokumente/oos1-labor/Aufgabe14/build/linux/CMakeFiles/edit_cache.dir
+/home/test/Dokumente/oos1-labor/Aufgabe14/build/linux/CMakeFiles/rebuild_cache.dir

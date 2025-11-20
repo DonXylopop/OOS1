@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/aufgabe14.dir/Employee.cpp.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "Employee",
+          "source-path": "/home/test/Dokumente/oos1-labor/Aufgabe14/Employee.cpp"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,49 @@
+{
+	"modules" : 
+	{
+		"Employee" : 
+		{
+			"bmi" : "/home/test/Dokumente/oos1-labor/Aufgabe14/build/linux/CMakeFiles/aufgabe14.dir/Employee.pcm",
+			"is-private" : true
+		},
+		"Manager" : 
+		{
+			"bmi" : "/home/test/Dokumente/oos1-labor/Aufgabe14/build/linux/CMakeFiles/aufgabe14.dir/Manager.pcm",
+			"is-private" : true
+		},
+		"Worker" : 
+		{
+			"bmi" : "/home/test/Dokumente/oos1-labor/Aufgabe14/build/linux/CMakeFiles/aufgabe14.dir/Worker.pcm",
+			"is-private" : true
+		}
+	},
+	"references" : 
+	{
+		"Employee" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/aufgabe14.dir/Employee.pcm"
+		},
+		"Manager" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/aufgabe14.dir/Manager.pcm"
+		},
+		"Worker" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/aufgabe14.dir/Worker.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"Manager" : 
+		[
+			"Employee"
+		],
+		"Worker" : 
+		[
+			"Employee"
+		]
+	}
+}
