@@ -183,9 +183,7 @@ public:
             cout << "Ausleiher:     " << _lender->get_name() << " von: " << _date_of_check_out << " bis: " << _date_of_return << "\n";
         }
     };
-    virtual Medium *clone() const{
-        return new Medium(*this);
-    };
+    virtual Medium *clone() const = 0;
 };
 
 // hier Konstruktor und Methoden
