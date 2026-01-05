@@ -46,7 +46,9 @@ class UsernamePassword : public IAuthenticationProcedure
 {
 public:
     UsernamePassword()
-    {}
+    {
+        
+    }
 
     AuthenticationResult authenticate() override
     {

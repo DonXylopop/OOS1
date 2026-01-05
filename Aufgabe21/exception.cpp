@@ -183,7 +183,7 @@ public:
         // HIER
         bool new_animal_is_elefant = (animal.is_animal() == "Elefant");
         bool new_animal_is_mouse = (animal.is_animal() == "Mouse");
-
+// HIER auch Prüfung mit Typeid() möglich, wahrscheinlich einfacher 
         if(!animals.empty())
         {
             bool last_animal_is_elefant = (animals.back()->is_animal() == "Elefant");
